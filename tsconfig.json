@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2017"],
+    "types": ["jest", "node"],
+    "moduleResolution": "node",
+    "declaration": true
+  },
+  "include": ["**/*.ts"]
+}
