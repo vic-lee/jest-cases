@@ -1,0 +1,22 @@
+{
+  "name": "jest-cases",
+  "version": "0.1.0",
+  "description": "A better way to write test cases in Jest.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vic-lee/jest-cases.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "TDD"
+  ],
+  "author": "vic-lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vic-lee/jest-cases/issues"
+  },
+  "homepage": "https://github.com/vic-lee/jest-cases#readme"
+}
