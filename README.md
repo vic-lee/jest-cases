@@ -1,4 +1,4 @@
-# jest-cases
+# jest-test-cases
 
 Utility library that facilitates test-case-driven development.
 
